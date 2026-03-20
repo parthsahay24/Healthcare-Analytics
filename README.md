@@ -1,13 +1,13 @@
-# MedCare Analytics - Advanced Healthcare Prediction Platform
+# Healthcare Analytics - Advanced Healthcare Prediction Platform
 
 ## 🏥 Overview
 
-MedCare Analytics is a comprehensive, professional-grade healthcare prediction platform that leverages advanced machine learning algorithms to assess diabetes risk. Built with modern web technologies and designed for healthcare professionals, this platform offers enterprise-level features including patient management, advanced analytics, PDF report generation, and comprehensive clinical decision support.
+Healthcare Analytics is a comprehensive, professional-grade healthcare prediction platform that leverages advanced machine learning algorithms to assess diabetes risk. Built with modern web technologies and designed for healthcare professionals, this platform offers enterprise-level features including patient management, advanced analytics, PDF report generation, and comprehensive clinical decision support.
 
 ## 📁 Project Structure
 
 ```
-MedCare_Analytics_Advanced/
+Healthcare-Analytics/
 ├── index.html              # Main application with advanced UI
 ├── style.css               # Comprehensive responsive styling
 ├── app.js                  # Advanced JavaScript with ML algorithms
@@ -105,7 +105,7 @@ MedCare_Analytics_Advanced/
 #### Using Python:
 ```bash
 # Navigate to project folder
-cd MedCare_Analytics_Advanced
+cd Healthcare-Analytics
 
 # Start server (Python 3)
 python -m http.server 8000
@@ -428,30 +428,16 @@ php -S localhost:8000
 
 ---
 
-## 📄 Legal and Compliance
+
 
 ### Medical Disclaimer
 This platform is designed for healthcare professionals as a clinical decision support tool. It should not be used as a substitute for professional medical advice, diagnosis, or treatment. Always consult qualified healthcare professionals for medical decisions.
 
-### Regulatory Information
-- **FDA Guidance**: Follows FDA guidance for AI/ML-based medical devices
-- **Clinical Validation**: All algorithms are clinically validated
-- **Quality Management**: ISO 13485 quality management system compliance
-- **Risk Management**: ISO 14971 medical device risk management
-- **Usability Engineering**: IEC 62366 usability engineering standards
 
-### Intellectual Property
-- **Patents**: Patent-pending AI algorithms and methods
-- **Trademarks**: MedCare Analytics and related trademarks
-- **Copyright**: Copyright protection for software and documentation
-- **Open Source**: Selected components available under open source licenses
-- **Licensing**: Commercial and academic licensing options available
-
----
 
 **Built with ❤️ for advancing healthcare through intelligent prediction and clinical decision support**
 
-*MedCare Analytics - Transforming healthcare through AI-powered risk assessment and clinical intelligence*
+*HealthCare Analytics - Transforming healthcare through AI-powered risk assessment and clinical intelligence*
 
 ## 📊 Usage Statistics
 
